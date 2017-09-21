@@ -2,10 +2,7 @@
 
 > 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 。
 
-### [我的博客在这里 &rarr;](http://qiubaiying.github.io)
-
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
-
+### [我的博客在这里 &rarr;](https://chaichuanfa.github.io)
 
 ## 使用
 
@@ -65,23 +62,20 @@ yaml 头文件长这样:
 ```
 ---
 layout:     post
-title:      定时器 你真的会使用吗？
-subtitle:   iOS定时器详解
-date:       2016-12-13
-author:     BY
-header-img: img/post-bg-ios9-web.jpg
+title:      第一篇博客
+subtitle:   一只程序猿的自述
+date:       2017-09-21
+author:     Felix
+header-img: img/post-bg-android.jpg
 catalog: 	 true
 tags:
-    - iOS
-    - 定时器
+    - Android
 ---
 
 ```
 
 ### 侧边栏
 
-看右边:
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
@@ -140,12 +134,12 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 # Friends
 friends: [
     {
-        title: "BY Blog",
-        href: "https://qiubaiying.github.io/"
+        title: "Felix Blog",
+        href: "https://chaichuanfa.github.io/"
     },
     {
-        title: "Apple",
-        href: "https://apple.com/"
+        title: "Android Developer",
+        href: "https://developer.android.google.cn/index.html"
     }
 ]
 ```
